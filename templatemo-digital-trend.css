@@ -547,6 +547,13 @@
   .blog-sidebar h3 {
     font-size: 18px;
   }
+.top2{
+	font-family: cursive;
+	font-size: 70px;
+	color: limegreen;
+	margin-bottom: 10%;
+}
+
 
 
 
@@ -588,12 +595,6 @@
     font-size: 70px;
     color: royalblue;
     margin-bottom: 10%;
-}
-.top2{
-	font-family: cursive;
-	font-size: 70px;
-	color: limegreen;
-	margin-bottom: 10%;
 }
 
   /*---------------------------------------
