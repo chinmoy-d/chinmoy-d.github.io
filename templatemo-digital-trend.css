@@ -1,11 +1,4 @@
-/*
 
-DIGITAL TREND
-
-https://templatemo.com/tm-538-digital-trend
-
-*/
-  
   @font-face {
       font-family: cursive;
       src: url('../fonts/Plain-Regular.woff2') format('woff2'),
@@ -143,7 +136,7 @@ https://templatemo.com/tm-538-digital-trend
   /* BUTTON */
   .custom-btn {
     position: absolute;
-    top:40%;
+    top:350px;
     left: 5%;
     background: transparent;
     border: 2px solid var(--dark-color);
@@ -358,16 +351,17 @@ https://templatemo.com/tm-538-digital-trend
 
   .des {
     position: relative;
-    top: -10%;
-      left: -29%;
+    top: -9%;
+    left: -29%;
     float: left;
     
     width: 145%
   }
 .heyya{
-    position:relative;
-    top: -86%;
-    left: -13%;
+    position:absolute;
+    margin-bottom: 0%;
+    top: 10%;
+    left: 5%;
     color: darkorange;
     font-size: 90px;
     
@@ -485,9 +479,11 @@ https://templatemo.com/tm-538-digital-trend
   }
 
 .resol{
+    align-content: center;
     position:relative;
-    width: 200%;
+    width: 100%;
     top: -40%;
+    
 }
 
   /*---------------------------------------
